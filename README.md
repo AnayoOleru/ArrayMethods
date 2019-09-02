@@ -1,3 +1,6 @@
+![version](https://img.shields.io/badge/version-1.2.3-blue) ![codacy](https://img.shields.io/badge/codacy-B-green) 
+![Twitter Follow](https://img.shields.io/twitter/follow/Anayo_Oleru?style=social)
+
 # ArrayMethods
 
 Day 6: Part one
@@ -18,3 +21,16 @@ Day 6: Part one
 Link to the Tutorial: 
 https://medium.com/@anayooleru/learn-array-methods-part-one-31c66586180c
 
+
+### 30DaysCodeChallenge:
+Javascript 30 days challenge. All through 30 days, I'll be building things, a lot of things. I never did decide on a side project, but that’s okay! Over the first 30 days of the challenge, I focused on exploring different areas of programming I have not had the chance to explore yet, pure Javascript methods and functions.
+
+#### The basic idea of this challenge is as follows:
+- Spend a minimum of 1 hour per day coding for 30 Days.
+- Tweet my progress on twitter, instagram, linkedIn with the #30DaysCodeChallenge tag
+- Encourage other people taking the challenge by sharing and interacting with their tweets.
+
+
+## Challenge Road Map
+
+Pivotal-tracker board [Pivotal-board](https://www.pivotaltracker.com/n/projects/2373400)
