@@ -5,6 +5,9 @@
 
 Day 6: Part one: Examples of how to use some array methods with some data, array methods such as filter(), map(), sort(), reduce()
 
+Day 9: Part Two: Examples of how to use other array methods with some data, array methods such as some(), every(), find(), reduce()
+Link: https://repl.it/@anayooleru/Array-Methods-part-two
+
 ### Follow this steps
 
 ##### clone this repo
