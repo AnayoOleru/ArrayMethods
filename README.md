@@ -3,7 +3,7 @@
 
 # ArrayMethods
 
-Day 6: Part one
+Day 6: Part one: Examples of how to use some array methods with some data, array methods such as filter(), map(), sort(), reduce()
 
 ### Follow this steps
 
